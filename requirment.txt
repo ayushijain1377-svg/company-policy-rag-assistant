@@ -1,3 +1,5 @@
+python
+pylance
 streamlit
 google-genai
 python-dotenv
@@ -5,4 +7,4 @@ pypdf
 chromadb
 langgraph
 langchain
-langchain-google-genai
+ 
